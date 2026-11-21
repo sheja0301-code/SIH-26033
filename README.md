@@ -66,6 +66,9 @@ Transparent Pricing: Displays product prices and delivery charges to help farmer
 
 Direct Market Access: Helps small and marginal farmers reach consumers, retailers and bulk buyers without depending on multiple intermediaries.
 
+<img width="955" height="478" alt="image" src="https://github.com/user-attachments/assets/21b282ac-e147-44cc-b33a-520d9521b5fa" />
+
+
 ## Technical Approach. Technologies to Be Used
 
 Frontend:
